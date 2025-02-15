@@ -7,26 +7,21 @@
 ```bash
 $ whoami
 Red Team Operator | Security Researcher | Developer
-$ pwd
-/home/artorisec/workspace
-$ ls -la /skills
-drwxr-xr-x Red Team Operations
-drwxr-xr-x Penetration Testing
-drwxr-xr-x OSINT & Intelligence Gathering
-drwxr-xr-x Network Security
-drwxr-xr-x Custom Tool Development
-```
 
-<div align="center">
-  <p>Exploring the intersection of offensive security and defensive strategies</p>
-</div>
+$ ls /skills
+Penetration Testing
+OSINT & Intelligence Gathering
+Network Security
+Offensive Weapons Development
+```
 
 ## Current Projects
 
 ```bash
 $ ls -la /projects
 ```
-> Insert projects here...
+> XDumpRust
+> 
 
 ## Tech Stack
 ```bash
@@ -44,11 +39,11 @@ $ cat /etc/tech/stack.conf
 $ stat /home/artorisec
 ```
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=artorisec&show_icons=true&theme=dark&bg_color=0a0a0a&text_color=f0f0f0&icon_color=404040&title_color=f0f0f0&border_color=404040&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src=https://github-readme-stats.vercel.app/api?usernameartorisec&show_icons=true&theme=dark&bg_color=0a0a0a&text_color=f0f0f0&icon_color=404040&title_color=f0f0f0&border_color=404040&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=artorisec&theme=dark&background=0a0a0a&border=404040&ring=404040&fire=404040&currStreakLabel=f0f0f0&sideLabels=f0f0f0&dates=a0a0a0" alt="GitHub Streak" />
+  <img src=https://github-readme-streak-stats.herokuapp.com/?userartorisec&theme=dark&background=0a0a0a&border=404040&ring=404040&fire=404040&currStreakLabel=f0f0f0&sideLabels=f0f0f0&dates=a0a0a0" alt="GitHub Streak" />
 </div>
 
 ## Contact & Links
@@ -57,7 +52,7 @@ netstat -tulpn
 ```
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=white)](https://artorisec.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/artorisec)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/artorisec)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/artorisec)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:root@artorisec.xyz)
 
 ---
