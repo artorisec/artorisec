@@ -23,9 +23,9 @@ $ ls -la /projects
 > XDumpRust
 > 
 
-## Tech Stack
+## Proficiencies
 ```bash
-$ cat /etc/tech/stack.conf
+$ cat /etc/proficiencies.conf
 ```
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
