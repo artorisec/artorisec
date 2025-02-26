@@ -39,7 +39,7 @@ $ cat /etc/proficiencies.conf
 $ stat /home/artorisec
 ```
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?usernameartorisec&show_icons=true&theme=dark&bg_color=0a0a0a&text_color=f0f0f0&icon_color=404040&title_color=f0f0f0&border_color=404040&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src=https://github-readme-stats.vercel.app/api?username=artorisec&show_icons=true&theme=dark&bg_color=0a0a0a&text_color=f0f0f0&icon_color=404040&title_color=f0f0f0&border_color=404040&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
